@@ -1,0 +1,11 @@
+.container {
+  display: grid;
+  max-width: 800px;
+  min-width: 300px;
+  min-height: 200px;
+  padding: 20px 50px;
+  margin: 20px auto;
+  border: 1px solid #000;
+  border-radius: 5px;
+  background-color: #f7d3a073;
+}
